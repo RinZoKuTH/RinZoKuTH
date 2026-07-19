@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Rin!</h1>
-  <h3>B.Sc. Mathematics & Computer Science | Chulalongkorn University ('28)</h3>
+  <h3>B.Sc. Mathematics & Computer Science | Chulalongkorn University</h3>
 </div>
 
 <hr>
