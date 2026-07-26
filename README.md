@@ -12,7 +12,6 @@
     <li>🌱 <strong>Focusing on:</strong> Machine Learning, Data Science, and Software Engineering.</li>
     <li>👨‍💻 <strong>Hackathon Experience:</strong> Competed in the initial rounds of AIHack Thailand and UNIHACK. Focused heavily on model training, backend architecture, data engineering, and data analysis to solve complex challenges.</li>
     <li>🎮 <strong>Game Development:</strong> Building combat systems and game logic using Lua (Roblox Studio) and Python (Pygame).</li>
-    <li>🎯 <strong>Goals:</strong> Actively building a foundation for Software Engineering and Data Analytics internships in the Fintech and retail sectors.</li>
   </ul>
 </div>
 
