@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Rin!</h1>
+  <h1>Hi there, I'm Punn!</h1>
   <h3>B.Sc. Mathematics & Computer Science | Chulalongkorn University</h3>
 </div>
 
